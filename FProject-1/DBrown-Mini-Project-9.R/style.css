@@ -1,0 +1,30 @@
+body {
+  background-color: palegreen;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+
+}
+
+p {
+  color: darkgreen;
+}
+
+.link-style {
+  font-size: 40px;
+}
+h1 {
+  text-align: center;
+  font-style: italic;
+  <p id="opening">Poem</p>
+  }
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+  color: darkgreen;
+  font-weight: bold;
+}
+h5 {
+  text-align: center;
+}

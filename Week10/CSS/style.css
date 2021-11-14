@@ -1,0 +1,31 @@
+html,body {
+  height: 100%
+}
+body, p,h3 {
+  margin: 0;
+}
+p {
+
+}
+.box {
+  background-color: lightgray;
+  width: 120px;
+  height: 150px;
+
+  margin: 30px;
+  padding: 20px;
+}
+.hidden-box {
+  background-color: blue;
+  width: 120px;
+  height: 150px;
+
+  margin: 30px;
+  padding: 20px;
+}
+.special-box {
+  background-color: pink;
+  position: absolute;
+  left: 200px;
+  right: 200px
+}
